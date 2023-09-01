@@ -9,7 +9,7 @@ Lunera est un bot francophone créer par aqwsdfgh. C'est un bot uniquement prés
 
 ## PREFIX :
 
-Le profix du bot n'est pas modifiable, et ce dernier est : `!`
+Le prefix du bot n'est pas modifiable, et ce dernier est : `!`
 ## Listes des commandes :
 
 Voici toutes les commandes disponibles [Vous pouvez voir toute les commandes du bots avec la commande `!commands` et voir leurs description et usage avec la commande `!help <commande>` :
