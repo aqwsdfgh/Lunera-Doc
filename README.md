@@ -35,6 +35,10 @@ Voici toutes les commandes disponibles :
 
 Rejoignez le serveur support : https://discord.gg/xAmV8aWnMw
 
+## Licence
+
+Ce projet est sous licence [MIT](LICENSE). Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
+
 ## Crédit :
 
 Le bot est entièrement créer par aqwsdfgh.
