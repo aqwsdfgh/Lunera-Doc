@@ -19,19 +19,19 @@ Voici toutes les commandes disponibles [Vous pouvez voir toute les commandes du 
   - avatar : Affiche l'avatar de l'utilisateur mentionné ou de l'utilisateur qui a tapé la commande.
   - blague : Affiche une blague aléatoirement.
   - blodtext : Transforme un texte en texte en gras.
-  -bonheur : Calcule le niveau de bonheur d'un utilisateur.
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
+  - bonheur : Calcule le niveau de bonheur d'un utilisateur.
+  - botinfo : Affiche des informations sur le bot.
+  - calculator : Effectue des calculs mathématiques simples.
+  - cat : Envoie une image aléatoire d'un chat.
+  - citation : Affiche une citation aléatoirement.
+  - commands : Affiche la liste des commandes disponibles.
+  - devine : Jouez à un jeu de devinette pour deviner un nombre entre 1 et 100.
+  - dog : Envoie une image aléatoire d'un chien.
+  - fait : Affiche un fait aléatoirement.
+  - fakeban : Simule un bannissement (faux) d'un utilisateur.
+  - gay : Calcule votre niveau d'homosexualité.
+  - hack : Simule un piratage (à des fins de divertissement uniquement).
+  - help : Affiche des informations sur une commande spécifique.
 
 
 ## Support :
