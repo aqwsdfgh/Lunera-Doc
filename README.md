@@ -1,9 +1,9 @@
-# Nom du Bot Discord
+# LUNERA BOT :
 
 [![Statut du bot](https://img.shields.io/badge/statut-en%20ligne-brightgreen.svg)](https://discord.gg/VOTRE_LIEN_DE_SERVEUR)
 [![Version du bot](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/votre_utilisateur/votre_projet)
 
-Description courte de votre bot Discord.
+Lunera est un bot francophone créer par aqwsdfgh. C'est un bot uniquement présent pour le divertissement et l'amusement de vos membres.
 
 ![Capture d'écran du bot](screenshot.png)
 
