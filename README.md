@@ -32,7 +32,17 @@ Voici toutes les commandes disponibles [Vous pouvez voir toute les commandes du 
   - gay : Calcule votre niveau d'homosexualité.
   - hack : Simule un piratage (à des fins de divertissement uniquement).
   - help : Affiche des informations sur une commande spécifique.
-
+  - hug : Envoie un câlin à un utilisateur mentionné avec une image aléatoire.
+  - panda : Envoie une image aléatoire de panda.
+  - password : Génère un mot de passe aléatoire avec un nombre spécifié de caractères.
+  - ping : Affiche la latence du bot.
+  - qi : Calcule le niveau de bonheur d'un utilisateur.
+  - rickroll : Rickroll someone.
+  - roll : Lance un dé à un certain nombre de faces et affiche le résultat.
+  - pierre-papier-ciseaux : Jouez à une partie de Pierre-Papier-Ciseaux contre le bot.
+  - say : Faites répéter un message au bot
+  - serverinfo : Affiche des informations sur le serveur.
+  - userinfo : Affiche les informations sur l'utilisateur mentionné ou l'utilisateur qui a tapé la commande.
 
 ## Support :
 
