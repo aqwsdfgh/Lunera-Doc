@@ -7,44 +7,35 @@ Lunera est un bot francophone créer par aqwsdfgh. C'est un bot uniquement prés
 
 ![Capture d'écran du bot](https://media.discordapp.net/attachments/1147256323872927915/1147307315419168929/image.png)
 
-## Table des matières
+## Listes des commandes :
 
-- [Aperçu](#aperçu)
-- [Fonctionnalités](#fonctionnalités)
-- [Prérequis](#prérequis)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Utilisation](#utilisation)
-- [Commandes](#commandes)
-- [Contribution](#contribution)
-- [Support](#support)
-- [Licence](#licence)
+Voici toutes les commandes disponibles :
 
-## Aperçu
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
 
-Ajoutez une brève description de ce que fait votre bot Discord et pourquoi il est utile. Vous pouvez également inclure des captures d'écran ou des GIF pour montrer comment il fonctionne.
 
-## Fonctionnalités
+## Support :
 
-Listez les principales fonctionnalités de votre bot Discord.
+Rejoignez le serveur support : https://discord.gg/xAmV8aWnMw
 
-- Fonctionnalité 1
-- Fonctionnalité 2
-- Fonctionnalité 3
+## Crédit :
 
-## Prérequis
+Le bot est entièrement créer par aqwsdfgh.
 
-Expliquez ce dont les utilisateurs ont besoin avant d'installer et d'utiliser votre bot Discord, par exemple :
-
-- Node.js installé
-- Une clé API Discord
-- ...
-
-## Installation
-
-Fournissez des instructions détaillées pour installer votre bot Discord. Utilisez des étapes claires et explicites.
-
-```bash
-git clone https://github.com/votre_utilisateur/votre_projet.git
-cd votre_projet
-npm install
