@@ -5,7 +5,7 @@
 
 Lunera est un bot francophone créer par aqwsdfgh. C'est un bot uniquement présent pour le divertissement et l'amusement de vos membres.
 
-![Capture d'écran du bot]([screenshot.png](https://media.discordapp.net/attachments/1147256323872927915/1147307315419168929/image.png))
+![Capture d'écran du bot](https://media.discordapp.net/attachments/1147256323872927915/1147307315419168929/image.png)
 
 ## Table des matières
 
