@@ -25,26 +25,37 @@ Voici toutes les commandes disponibles [Vous pouvez voir toute les commandes du 
   - cat : Envoie une image aléatoire d'un chat.
   - citation : Affiche une citation aléatoirement.
   - commands : Affiche la liste des commandes disponibles.
+  - demineur : Jouez à une partie de Démineur.
   - devine : Jouez à un jeu de devinette pour deviner un nombre entre 1 et 100.
   - dog : Envoie une image aléatoire d'un chien.
   - fait : Affiche un fait aléatoirement.
   - fakeban : Simule un bannissement (faux) d'un utilisateur.
+  - flood : Jouez à une partie de Flood.
   - gay : Calcule votre niveau d'homosexualité.
   - hack : Simule un piratage (à des fins de divertissement uniquement).
   - help : Affiche des informations sur une commande spécifique.
   - hug : Envoie un câlin à un utilisateur mentionné avec une image aléatoire.
+  - kill : Tue un utilisateur mentionné.
+  - kiss : Embrassez un utilisateur mentionné.
   - link : Affiche des liens utiles, y compris la documentation GitHub, le serveur de support et le lien d'invitation du bot.
+  - lovecalc ! Calcule le pourcentage d'amour entre deux utilisateurs.
   - panda : Envoie une image aléatoire de panda.
   - password : Génère un mot de passe aléatoire avec un nombre spécifié de caractères.
+  - pendu : Jouez à une partie de pendu.
   - ping : Affiche la latence du bot.
   - qi : Calcule le niveau de bonheur d'un utilisateur.
+  - reverse : Inverse le texte fourni.
   - rickroll : Rickroll someone.
   - roll : Lance un dé à un certain nombre de faces et affiche le résultat.
   - pierre-papier-ciseaux : Jouez à une partie de Pierre-Papier-Ciseaux contre le bot.
   - say : Faites répéter un message au bot
   - serverinfo : Affiche des informations sur le serveur.
+  - slap : Donnez une gifle à un utilisateur mentionné.
   - snake : Jouez à Snake dans Discord.
+  - tictactoe : Jouez à Tic-Tac-Toe avec un autre utilisateur.
   - userinfo : Affiche les informations sur l'utilisateur mentionné ou l'utilisateur qui a tapé la commande.
+  - wikipedia : Recherchez des informations sur Wikipedia.
+  - wink : Faites un clin d'œil à un utilisateur mentionné.
 
 ## Support :
 
