@@ -14,7 +14,7 @@ Le prefix du bot n'est pas modifiable, et ce dernier est : `!`
 
 Voici toutes les commandes disponibles [Vous pouvez voir toute les commandes du bots avec la commande `!help` et voir leurs description et usage avec la commande `!help <commande>` :
 
-  # Fun :
+  ### Fun :
 - 8ball : Posez une question à la boule magique 8 et obtenez une réponse aléatoire.
 - ascii : Convertit un texte en art ASCII.
 - blague : Affiche une blague aléatoirement.
@@ -35,7 +35,7 @@ Voici toutes les commandes disponibles [Vous pouvez voir toute les commandes du 
 - say : Faites répéter un message au bot
 - wikipedia : Recherchez des informations sur Wikipedia.
 
-# Images :
+### Images :
 - cat : Envoie une image aléatoire d'un chat.
 - dog : Envoie une image aléatoire d'un chien.
 - hug : Envoie un câlin à un utilisateur mentionné.
@@ -47,7 +47,7 @@ Voici toutes les commandes disponibles [Vous pouvez voir toute les commandes du 
 - slap : Donnez une gifle à un utilisateur mentionné.
 - wink : Faites un clin d'œil à un utilisateur mentionné.
 
-# Informations :
+### Informations :
 - avatar : Convertit un texte en art ASCII.
 - botinfo : Affiche des informations sur le bot.
 - channel : Affiche des informations sur un canal spécifique.
@@ -57,7 +57,7 @@ Voici toutes les commandes disponibles [Vous pouvez voir toute les commandes du 
 - serverinfo : Affiche des informations sur le serveur.
 - userinfo : Affiche les informations sur l'utilisateur mentionné ou l'utilisateur qui a tapé la commande.
 
-# Jeux : 
+### Jeux : 
 - anagramme : Jouez à une partie d'Anagramme.
 - demineur :  Jouez à une partie de Démineur.
 - devine : Jouez à un jeu de devinette pour deviner un nombre entre 1 et 100.
@@ -70,7 +70,7 @@ Voici toutes les commandes disponibles [Vous pouvez voir toute les commandes du 
 - snake : Jouez à Snake dans Discord.
 - tictactoe : Jouez à Tic-Tac-Toe avec un autre utilisateur.
 
-# Niveaux :
+### Niveaux :
 - classement : Affiche votre niveau et votre classement.
 - rank : Affiche le top 100 du classement.
 
